@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Portfolio
 
 # Your name to show in the footer
-author: Some Person
+author: Sacha Renault
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,7 +21,7 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  School: "/school/"
+  Education: "education"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -50,9 +50,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "contact@sacharenault.ovh"
-  # rss: true # remove this line if you don't want to show an RSS link at the bottom
   telephone: +14159998888
   github: sacha-renault
+  custom_network:
+    name: "PyPI"
+    url: "https://pypi.org/user/hasa_c/"
+    # icon: "fa-link" # FontAwesome icon (if applicable)
 
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -253,7 +256,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "France/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -286,6 +289,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - Dockerfile
 
 plugins:
   - jekyll-paginate
