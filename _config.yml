@@ -11,10 +11,10 @@
 
 # Name of website
 title: Portfolio
-url: "http://localhost:4000"
 baseurl: "/portfolio"
 host: 0.0.0.0
 port: 4000
+# relative_permalinks: true
 
 # Your name to show in the footer
 author: Sacha Renault

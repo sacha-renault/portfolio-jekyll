@@ -20,6 +20,8 @@ COPY . /usr/src/app
 EXPOSE 4000
 
 # Command to serve the site
-CMD ["jekyll", "serve"]
+# CMD ["jekyll", "serve"]
+CMD ["jekyll", "serve", "--config", "_config.yml,_config_dev.yml"]
+# CMD jekyll serve --config _config.yml,_config_dev.yml --baseurl=""
 # CMD ["bundle", "exec", "jekyll", "serve"]
 # CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--config", "_config.yml"]
