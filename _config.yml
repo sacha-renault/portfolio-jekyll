@@ -11,6 +11,7 @@
 
 # Name of website
 title: Portfolio
+url: "http://localhost:4000"
 baseurl: "/portfolio"
 host: 0.0.0.0
 port: 4000
@@ -114,6 +115,11 @@ excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
+
+# to get readme
+jekyll_get:
+  - datafile: "pynn_readme" # Name of the file where the data will be stored (without extension)
+    json: "https://github.com/sacha-renault/py-nn/blob/main/readme.md" # URL to the raw README file
 
 # Whether or not to show a list of tags below each post preview in the feed page
 # feed_show_tags: true

@@ -19,6 +19,8 @@ COPY . /usr/src/app
 # Expose port 4000 for Jekyll
 EXPOSE 4000
 
+ENV JEKYLL_ENV=not-development
+
 # Command to serve the site
 # CMD ["jekyll", "serve"]
 CMD ["jekyll", "serve", "--config", "_config.yml,_config_dev.yml"]
