@@ -10,6 +10,7 @@ cover-img: /assets/img/projects/pipeline.png
 This project is **not** a traditional data engineering pipeline like the ones used to move data between systems. Instead, it's a pipeline specifically designed to process data for **deep learning** workflows. It focuses on tasks like preparing, transforming, and augmenting data right before it’s fed into a machine learning model.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 #### Key Features
 
