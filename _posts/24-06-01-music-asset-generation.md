@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Music assets generation"
+title: "Music assets generation with diffusion model"
 date: June 2024
 tags: [project, Python, Pytorch, Hugging Face]
 thumbnail-img: /assets/img/projects/diffusion.webp
