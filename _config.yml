@@ -11,6 +11,10 @@
 
 # Name of website
 title: Portfolio
+url: "http://localhost:4000"
+baseurl: "/portfolio"
+host: 0.0.0.0
+port: 4000
 
 # Your name to show in the footer
 author: Sacha Renault
@@ -20,9 +24,10 @@ author: Sacha Renault
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "/"
   Education: "education"
   Work Experience: "work-experience"
+  Projects: "projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -111,13 +116,13 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+# feed_show_tags: true
 
 # Add a search button to the navbar
 # post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+# edit_page_button: true
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -247,7 +252,7 @@ footer-hover-col: "#0085A1"
 ################
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%B, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
