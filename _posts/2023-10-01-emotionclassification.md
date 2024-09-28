@@ -31,4 +31,6 @@ The main goal of this project was to use Vision Transformers (ViT) and gain hand
 
 ## Resources
 
-[dataset](https://www.kaggle.com/datasets/noamsegal/affectnet-training-data) used for training.
+Here is the [dataset](https://www.kaggle.com/datasets/noamsegal/affectnet-training-data) used for training.  
+(_and my surprised face_)
+<img src="{{ '/assets/img/projects/surprise.png' | relative_url }}"/>

@@ -4,10 +4,11 @@ services:
     container_name: jekyll-build
     volumes:
       - .:/srv/jekyll
-    command: jekyll build   # Build the site statically
+    command: sh -c "gem install bundler -v 2.2.33 && bundle _2.2.33_ install && jekyll build --config _config.yml"
+
     environment:
       JEKYLL_ENV: production
-      JEKYLL_BASEURL: portfolio
+      JEKYLL_BASEURL: /me
 
   nginx:
     image: nginx:alpine
