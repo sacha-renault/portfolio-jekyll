@@ -9,6 +9,8 @@ Hi, I’m Sacha Renault! I’m a passionate tech enthusiast with a love for arti
 
 Beyond tech, I have a range of interests that keep me inspired:
 
+---
+
 #### 🎶 Music:
 
 - I love playing the guitar and composing my own music.
