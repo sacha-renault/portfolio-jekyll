@@ -25,11 +25,11 @@ author: Sacha Renault
 ###############################################
 
 navbar-links:
-  About Me: "/"
-  Education: "education"
-  Work Experience: "work-experience"
-  Projects: "projects"
-  contact me:
+  🙋 About Me: "/"
+  🎓 Education: "education"
+  👨🏻‍💻 Work Experience: "work-experience"
+  🛠️ Projects: "projects"
+  📩 contact me:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 

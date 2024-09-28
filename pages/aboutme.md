@@ -39,3 +39,8 @@ Beyond tech, I have a range of interests that keep me inspired:
 ---
 
 Whether it’s tackling a challenging tech problem, making music, or exploring the great outdoors, I’m always looking to learn, grow, and create.
+
+<div style="text-align: center;">
+  <img src="{{ '/assets/img/my_face34.jpg' | relative_url }}" style="width:15vw;"/>
+</div>
+_PS: I didn't know where to put it in the page but I also like food a lot._
