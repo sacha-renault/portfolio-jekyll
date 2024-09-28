@@ -30,7 +30,7 @@ I implemented two variations of the DDPM pipeline:
 
 ### Tackling the Dataset Challenge
 
-One of the key challenges in this project was the lack of large-scale music datasets. To address this, I used the custom DDPM to augment the dataset. By adding controlled levels of noise to my original audio samples, I was able to expand the dataset artificially. This allowed me to simulate a much larger dataset, which is especially important for projects where access to large, diverse datasets is limited.
+One of the key challenges in this project was the lack of large-scale music datasets. To address this, I used data augmentation techniques, including filtering, cutting, and merging audio samples. These audio processing methods allowed me to artificially expand the dataset by creating variations of the original audio. This approach was crucial for simulating a larger and more diverse dataset, especially when dealing with limited data availability.
 
 ### Running on GPU
 
