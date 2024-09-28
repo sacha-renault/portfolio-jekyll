@@ -12,7 +12,7 @@
 # Name of website
 title: Portfolio
 url: "http://localhost:4000"
-baseurl: "/portfolio"
+baseurl: "/me"
 host: 0.0.0.0
 port: 4000
 # relative_permalinks: true

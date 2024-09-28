@@ -1,17 +1,39 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Tech Enthusiast, Music Lover
 permalink: /
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I’m Sacha Renault! I’m a passionate tech enthusiast with a love for artificial intelligence, deep learning, and coding. I’m always looking for new challenges where I can expand my skills in innovative ways, whether it’s training deep learning models, building new software or diving into complex algorithms.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Beyond tech, I have a range of interests that keep me inspired:
 
-What else do you need?
+#### 🎶 Music:
 
-### My story
+- I love playing the guitar and composing my own music.
+- I'm into music production and enjoy experimenting with different sounds.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+---
+
+#### 🌄 Outdoors:
+
+- Staying active is important to me, and I enjoy hiking in nature.
+- I'm also into weightlifting as a way to stay healthy and focused.
+
+---
+
+#### 🎨 Design:
+
+- I’ve worked as a graphic designer for events like the 55th edition of Rock n' Solex, which allowed me to combine creativity with my passion for visuals.
+
+---
+
+#### 💻 Tech Projects:
+
+- I’m constantly learning and diving into AI and deep learning projects.
+- I'm also actively keeping myself up to date with other emerging technologies. I may not dive deeply into everything, but I love staying informed about what's trending and understand the bigger picture of the tech landscape.
+
+---
+
+Whether it’s tackling a challenging tech problem, making music, or exploring the great outdoors, I’m always looking to learn, grow, and create.

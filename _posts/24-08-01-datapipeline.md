@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/projects/pipeline.png
 cover-img: /assets/img/projects/pipeline.png
 ---
 
-This project is **not** a traditional data engineering pipeline like the ones used to move data between systems. Instead, it's a pipeline specifically designed to process data for **deep learning** workflows. It focuses on tasks like preparing, transforming, and augmenting data right before it’s fed into a machine learning model.
+This project is **not** a traditional data engineering pipeline like the ones used to move data between systems. Instead, it's a pipeline specifically designed to process data for **deep learning** workflows. It focuses on tasks like loading, preparing, transforming, and augmenting data right before it’s fed into a machine learning model.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -17,7 +17,7 @@ This project is **not** a traditional data engineering pipeline like the ones us
 - **Deferred Execution**: The pipeline supports deferred execution, allowing users to define the pipeline without immediately executing it. This feature is useful for building complex data transformations and processing steps.
 - **Flexible Input/Output Nodes**: Users can define multiple input and output nodes to handle various data formats and workflows.
 - **Modular Design**: The pipeline consists of nodes that can be combined in various ways to form complex processing graphs.
-- **Validator Integration**: Built-in validators ensure that inputs and outputs meet certain criteria before execution.
+- **Validator Integration**: Built-in validators ensure that outputs meet certain criteria at runtime.
 
 #### Example Use Case
 

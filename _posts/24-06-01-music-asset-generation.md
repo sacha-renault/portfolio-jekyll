@@ -50,4 +50,4 @@ Overall, I'm really pleased with how this project turned out. The diffusion pipe
 
 ##### Example: Standard DDPM pipeline run, frame per frame.
 
-<img src="/assets/img/projects/DDPM.gif"/>
+<img src="{{ '/assets/img/projects/DDPM.gif' | relative_url }}"/>
