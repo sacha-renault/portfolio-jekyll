@@ -57,7 +57,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "contact@sacharenault.ovh"
-  telephone: +14159998888
+  telephone: +33 7 81 75 82 99
   github: sacha-renault
   custom_network:
     name: "PyPI"

@@ -17,13 +17,13 @@ This was a relatively short but fascinating project where I experimented with **
 
 ## Approach
 
-I took a **pre-trained Vision Transformer** and **removed the classification head**. Afterward, I trained a new head specifically for **emotion classification**. This allowed me to leverage the powerful feature extraction capabilities of ViT, while adding a custom classification layer tailored for my task. The result was a model that could classify facial emotions effectively, even with a relatively short training period.
+I used a **pre-trained Vision Transformer (ViT)** and **replaced the classification head** with a new one for **emotion classification**. This let me use **ViT's feature extraction strengths** while adding my own custom layer. The model ended up classifying **facial emotions** well, even with a short training time.
 
 ## Key Takeaways
 
-- **Exploring ViTs**: I was new to Vision Transformers, and this project gave me a hands-on understanding of their structure and how they differ from traditional convolutional networks.
-- **Transfer Learning**: By using a pre-trained model and only retraining the head, I was able to complete the project efficiently while still getting good performance.
-- **Short but Impactful**: Although this was a short project, it was an **interesting exploration** into ViTs, and it really showed me the power of transformers beyond NLP tasks.
+- **Exploring ViTs**: I was new to Vision Transformers, and this project helped me understand their structure and how they differ from convolutional networks.
+- **Transfer Learning**: By using a pre-trained model and only retraining the head, I completed the project efficiently with good performance.
+- **Short but Impactful**: Even though it was a short project, it was an **interesting look** at ViTs and showed me the power of transformers beyond NLP.
 
 ## Conclusion
 
@@ -32,5 +32,5 @@ The main goal of this project was to use Vision Transformers (ViT) and gain hand
 ## Resources
 
 Here is the [dataset](https://www.kaggle.com/datasets/noamsegal/affectnet-training-data) used for training.  
-(_and my surprised face_)
-<img src="{{ '/assets/img/projects/surprise.png' | relative_url }}"/>
+(_and my surprised face_)  
+<img src="{{ '/assets/img/projects/surprise.png' | relative_url }}" style="width:25vw;"/>
