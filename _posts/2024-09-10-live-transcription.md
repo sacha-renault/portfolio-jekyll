@@ -6,3 +6,9 @@ tags: [project, Python, AI]
 thumbnail-img: /assets/img/projects/stt.jpg
 cover-img: /assets/img/projects/stt.jpg
 ---
+
+## 🚧🚧🚧 Under Construction 🚧🚧🚧.
+
+This project is currently a work in progress.
+
+---

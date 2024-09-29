@@ -28,9 +28,10 @@ navbar-links:
   🎓 Education: "education"
   👨🏻‍💻 Work Experience: "work-experience"
   🛠️ Projects: "projects"
-  📩 contact me:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  📬 contact me: "/contact"
+  # 📩 contact me:
+  #   - How to: "/contact"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
@@ -301,6 +302,8 @@ exclude:
   - screenshot.png
   - docs/
   - Dockerfile
+  - docker-compose.yml
+  - docker_build.md
 
 plugins:
   - jekyll-paginate
