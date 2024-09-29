@@ -8,6 +8,7 @@ services:
 
     environment:
       JEKYLL_ENV: production
+      JEKYLL_BASEURL: /me
 
   nginx:
     image: nginx:alpine
