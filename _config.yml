@@ -12,6 +12,7 @@
 # Name of website
 title: Portfolio
 url: "http://sacharenault.ovh"
+# url: "http://localhost"
 baseurl: "/me"
 host: 0.0.0.0
 port: 4000
