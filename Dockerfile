@@ -1,7 +1,8 @@
 # Use an official Ruby image as the base
-FROM ruby:3.0
+FROM ruby:3.2
 
 # Install necessary dependencies
+RUN gem update --system
 RUN apt-get update -qq && apt-get install -y build-essential libpq-dev nodejs
 
 # Set the working directory inside the container
@@ -22,8 +23,4 @@ EXPOSE 4000
 ENV JEKYLL_ENV=not-development
 
 # Command to serve the site
-# CMD ["jekyll", "serve"]
 CMD ["jekyll", "serve", "--config", "_config.yml,_config_dev.yml"]
-# CMD jekyll serve --config _config.yml,_config_dev.yml --baseurl=""
-# CMD ["bundle", "exec", "jekyll", "serve"]
-# CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--config", "_config.yml"]
