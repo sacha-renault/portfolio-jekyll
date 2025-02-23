@@ -10,8 +10,8 @@ permalink: /work-experience
 
 ## Software Engineer
 
-**Orange Business.** - _November 2023 to Present_.  
-**France.**
+**Orange Business** - _November 2023 to Present_.  
+**France**
 
 - Integration and implementation of a hypervisor system for centralized security management across Orange's infrastructure sites
 - Custom driver development in .NET for seamless hypervisor-equipment communication and monitoring
@@ -50,7 +50,7 @@ permalink: /work-experience
 ## Full-stack Developer Intern
 
 **Toolzgather** - _May to July 2022_.  
-**France.**
+**France**
 
 - Design and implementation of an analysis module.
 - Full-stack development.
