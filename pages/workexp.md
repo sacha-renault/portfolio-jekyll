@@ -13,8 +13,6 @@ permalink: /work-experience
 **Orange Business.** - _November 2023 to Present_.  
 **France.**
 
-I'll help enhance the description and add badges for Python and Pandas. I'll also improve the formatting and add some detail to make it more comprehensive:
-
 - Integration and implementation of a hypervisor system for centralized security management across Orange's infrastructure sites
 - Custom driver development in .NET for seamless hypervisor-equipment communication and monitoring
 - Backend architecture and development using .NET framework and OWIN middleware for RESTful services
@@ -51,7 +49,7 @@ I'll help enhance the description and add badges for Python and Pandas. I'll als
 
 ## Full-stack Developer Intern
 
-**Toolzgather**, - _May to July 2022_.  
+**Toolzgather** - _May to July 2022_.  
 **France.**
 
 - Design and implementation of an analysis module.
