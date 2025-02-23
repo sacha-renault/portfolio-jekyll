@@ -13,10 +13,16 @@ permalink: /work-experience
 **Orange Business.** - _November 2023 to Present_.  
 **France.**
 
-- Integration of a hypervisor to centralize the security of Orange's sites.
-- Development of drivers for communication between the hypervisor and equipment in .NET.
+I'll help enhance the description and add badges for Python and Pandas. I'll also improve the formatting and add some detail to make it more comprehensive:
+
+- Integration and implementation of a hypervisor system for centralized security management across Orange's infrastructure sites
+- Custom driver development in .NET for seamless hypervisor-equipment communication and monitoring
+- Backend architecture and development using .NET framework and OWIN middleware for RESTful services
+- Python software development for managing datasets using pandas
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OWIN](https://img.shields.io/badge/OWIN-000000?style=for-the-badge&logo=owin&logoColor=white)
