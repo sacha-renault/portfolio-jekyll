@@ -7,7 +7,7 @@ permalink: /
 
 Hi, I’m Sacha Renault! I’m a passionate tech enthusiast with a love for artificial intelligence, deep learning, and coding. I’m always looking for new challenges where I can expand my skills in innovative ways, whether it’s training deep learning models, building new software or diving into complex algorithms.
 
-Beyond tech, I have a range of interests that keep me inspired:
+I have a range of interests that keep me inspired:
 
 ---
 
@@ -38,8 +38,15 @@ Beyond tech, I have a range of interests that keep me inspired:
 
 ---
 
-Whether it’s tackling a challenging tech problem, making music, or exploring the great outdoors, I’m always looking to learn, grow, and create.
+#### 🛠️ My Tech Stack
+A snapshot of the languages and technologies I use most frequently in my projects.
 
-<div style="text-align: center;">
-  <img src="{{ '/assets/img/my_face34.jpg' | relative_url }}" style="width:15vw;"/>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-renault&hide=jupyter" alt="Top Langs" />
+  </a>
 </div>
+
+---
+
+Whether it’s tackling a challenging tech problem, making music, or exploring the great outdoors, I’m always looking to learn, grow, and create.
