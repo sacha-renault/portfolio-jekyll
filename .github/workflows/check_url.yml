@@ -11,7 +11,7 @@ jobs:
     
     # You can set up multiple URLs by creating environment variables or using a matrix
     env:
-      URL_TO_CHECK: "http://me.sacharenault.ovh/me/"  # Replace with your URL
+      URL_TO_CHECK: "http://me.sacharenault.ovh/me/132"  # Replace with your URL
       MAX_RETRIES: 3
       RETRY_DELAY: 5
     
