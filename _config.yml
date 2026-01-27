@@ -11,9 +11,8 @@
 
 # Name of website
 title: Portfolio
-url: "http://me.sacharenault.ovh"
-# url: "http://localhost"
-baseurl: "/me"
+url: "https://sacha-renault.github.io/portfolio-jekyll/"
+baseurl: "/repository-name"
 host: 0.0.0.0
 port: 4000
 
