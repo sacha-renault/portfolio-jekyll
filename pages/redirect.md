@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ""
+title: "REDIRECT"
+permalink: /me/
 redirect_to: /portfolio-jekyll/
 ---
 
