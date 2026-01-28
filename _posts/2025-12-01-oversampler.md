@@ -69,5 +69,4 @@ Different use cases need different quality/latency tradeoffs. A mastering plugin
 
 ## Links
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sacha-renault/oversampler)
-[![crates.io](https://img.shields.io/badge/crates.io-orange?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/crates/oversampler)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sacha-renault/nih_oversampler)
