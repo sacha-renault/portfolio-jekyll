@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Audio Oversampler"
-date: January 2025
+date: December 2025
 tags: [project, Rust, Audio, Library]
 thumbnail-img: /assets/img/projects/oversampler.png
 cover-img: /assets/img/projects/oversampler.png
@@ -22,7 +22,7 @@ When applying non-linear effects like distortion, saturation, or wave shaping to
 
 This library provides 2x, 4x, 8x, and higher-order oversampling with a focus on the constraints of real-time audio processing: zero allocations during processing, predictable latency, and efficient CPU usage.
 
-![IMAGE OVERSAMPLING ON CLIP](/assets/img/projects/Clipping.gif)
+<img src="{{ '/assets/img/projects/Clipping.gif' | relative_url }}" style="width:25vw;"/>
 
 ## Technical Implementation
 
